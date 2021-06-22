@@ -14,4 +14,4 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=avery2)](https://github.com/avery2/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=avery2)](https://www.averychan.site/)
