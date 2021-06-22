@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <a href="https://www.averychan.site/" target="__blank">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars" />
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues" />
   </a>
   <a href="https://www.averychan.site/" target="__blank">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avery2&layout=compact" />
