@@ -13,3 +13,5 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=avery2)](https://github.com/avery2/github-readme-stats)
