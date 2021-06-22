@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 📫 How to reach me: justinaverychan@gmail.com | [linkedin](https://www.linkedin.com/in/avery2/)
+- 📫 How to reach me: [email](mailto:justinaverychan@gmail.com) | [linkedin](https://www.linkedin.com/in/avery2/)
 - 🌐 My website: https://www.averychan.site/
 - 😄 Pronouns: He/Him
 <!-- - 🔭 I’m currently working on ... -->
