@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 - 📫 How to reach me: [email](mailto:justinaverychan@gmail.com) | [linkedin](https://www.linkedin.com/in/avery2/)
-- 🌐 Website: https://www.averychan.site/
+- 🌐 Website: https://www.averychan.site
 - 😄 Pronouns: He/Him
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
