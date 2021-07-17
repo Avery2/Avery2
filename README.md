@@ -42,7 +42,7 @@ Here are some ideas to get you started: -->
     
   <div align="left">
   <details>
-    <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
+    <summary>Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
     <!-- SMELL -->
     <details>
       <summary>👃</summary>
