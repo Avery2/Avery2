@@ -20,12 +20,12 @@ Here are some ideas to get you started: -->
   </a>
 </div>
 
-<!--   - 🔭 I’m currently working on ... -->
-<!--   - 👯 I’m looking to collaborate on ... -->
-<!--   - 🤔 I’m looking for help with ... -->
-<!--   - 💬 Tell me about ... anything you find really interesting -->
-<!--   - ⚡ Fun fact: ... -->
-<!--   - 🌱 I’m currently learning ... R and ML classification problems -->
+<!--   - 🔭 I’m currently working on  -->
+<!--   - 👯 I’m looking to collaborate on  -->
+<!--   - 🤔 I’m looking for help with  -->
+<!--   - 💬 Tell me about  anything you find really interesting -->
+<!--   - ⚡ Fun fact:  -->
+<!--   - 🌱 I’m currently learning  R and ML classification problems -->
 <!--   - 🎙 Random quotes I like (because I need content):
     > Being friends with someone for even a couple days will tell you more than companies could ever learn in interviews. [1] \
       Don't force things; just work on stuff you like with people you like. [1]
@@ -34,6 +34,38 @@ Here are some ideas to get you started: -->
 
   [1]: http://www.paulgraham.com/start.html
   [2]: https://en.wikipedia.org/wiki/A_Crown_of_Swords -->
+
+  <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+
+  <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
 
 <div align="center">
   <details>
@@ -45,78 +77,456 @@ Here are some ideas to get you started: -->
     <details>
       <summary>👁</summary>
         <details>
-        <summary>🚪</summary> ...
+        <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
         </details>
         <details>
-        <summary>🚪</summary> ...
+        <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
         </details>
         <details>
-        <summary>🚪</summary> ...
+        <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
           <details>
-          <summary>🚪</summary> ...
-          </details>
-        </details>
-        <details>
-        <summary>🚪</summary> ...
-          <details>
-          <summary>🚪</summary> ...
-          </details>
-          <details>
-          <summary>🚪</summary> ...
-          </details>
-          <details>
-          <summary>🚪</summary> ...
-          </details>
-          <details>
-          <summary>🚪</summary> ...
+          <summary>🚪</summary> 
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
+            <details>
+            <summary>🚪</summary> ...
+            </details>
           </details>
         </details>
     </details><details>
       <summary>👃</summary>
         <details>
-        <summary>💨💨</summary> ...
+        <summary>💨</summary> 
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
         </details>
         <details>
-        <summary>💨💨</summary> ...
+        <summary>💨💨</summary> 
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨💨</summary> 🧀 Well done. You have almost as much free time as me.
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
         </details>
         <details>
-        <summary>💨💨</summary> ...
-        </details>
-        <details>
-        <summary>💨💨</summary> ...
+        <summary>💨</summary> 
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
+          <details>
+          <summary>💨💨</summary> 
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+            <details>
+            <summary>💨💨💨</summary> ...
+            </details>
+          </details>
         </details>
     </details>
   </details>
