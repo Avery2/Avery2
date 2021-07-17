@@ -7,12 +7,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: [email](mailto:justinaverychan@gmail.com) | [linkedin](https://www.linkedin.com/in/avery2/)
 - 🌐 Website: https://www.averychan.site
 - 😄 Pronouns: He/Him
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - ⚡ Fun fact: ... -->
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=contribs,stars)](https://www.averychan.site/) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avery2&layout=compact)](https://www.averychan.site/) -->
@@ -25,3 +19,23 @@ Here are some ideas to get you started: -->
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avery2&layout=compact" />
   </a>
 </div>
+
+<details>
+  <summary>🪤</summary>
+  
+<!--   - 🔭 I’m currently working on ... -->
+<!--   - 👯 I’m looking to collaborate on ... -->
+<!--   - 🤔 I’m looking for help with ... -->
+<!--   - 💬 Tell me about ... anything you find really interesting -->
+<!--   - ⚡ Fun fact: ... -->
+<!--   - 🌱 I’m currently learning ... R and ML classification problems -->
+<!--   - 🎙 Random quotes I like (because I need content):
+    > Being friends with someone for even a couple days will tell you more than companies could ever learn in interviews. [1] \
+      Don't force things; just work on stuff you like with people you like. [1]
+  
+    > Tell me of difficulties surmounted, not those you stumble over and fall [2]
+
+  [1]: http://www.paulgraham.com/start.html
+  [2]: https://en.wikipedia.org/wiki/A_Crown_of_Swords -->
+  <div align="center"> 🧀 Ha! You fell for it.</div>
+</details>
