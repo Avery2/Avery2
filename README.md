@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
   <details>
     <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
     <details>
-      <summary>"👁"</summary>
+      <summary><p>&nbsp;</p>👁</summary>
         <details>
         <summary>🚪</summary> 
           <details>
