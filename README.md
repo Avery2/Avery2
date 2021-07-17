@@ -47,18 +47,28 @@ Here are some ideas to get you started: -->
   <div><details>
     <summary>Where's the cheese?</summary>
     <div> 🕵🏻‍♂️ </div>
-    <!-- A -->
     <div><details>
-    <summary>🧩</summary>
-    <div> Find it. </div>
-    <div><details>
-    <summary>Where's the cheese?</summary>
-    <div> ... </div>
-    </details>
-    <details>
-    <summary>Where's the cheese?</summary>
-    <div> ... </div>
-    </details></div>
+      <summary>🧩</summary>
+      <div> Find it. </div>
+      <div><details>
+      <summary>Where's the cheese?</summary>
+      <div> ... </div>
+      </details>
+      <details>
+      <summary>Where's the cheese?</summary>
+      <div> ... </div>
+      </details></div>
+    </details><details>
+      <summary>🧩</summary>
+      <div> Find it. </div>
+      <div><details>
+      <summary>Where's the cheese?</summary>
+      <div> ... </div>
+      </details>
+      <details>
+      <summary>Where's the cheese?</summary>
+      <div> ... </div>
+      </details></div>
     </details></div>
   </details></div>
     
