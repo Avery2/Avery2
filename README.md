@@ -41,23 +41,83 @@ Here are some ideas to get you started: -->
   <div align="center"> 📦 Ha! You fell for it.</div>
     
   <details>
-    <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it.
+    <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
     <details>
       <summary>👁</summary>
-      <div><details>
-      <summary>Where's the cheese?</summary> ...
-      </details>
-      <details>
-      <summary>Where's the cheese?</summary> ...
-      </details></div>
+        <details>
+        <summary>🚪</summary> ...
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+        </details>
+        <details>
+        <summary>🚪</summary> ...
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+        </details>
+        <details>
+        <summary>🚪</summary> ...
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+        </details>
+        <details>
+        <summary>🚪</summary> ...
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+          <details>
+          <summary>🚪</summary> ...
+          </details>
+        </details>
     </details><details>
       <summary>👃</summary>
-      <div><details>
-      <summary>Where's the cheese?</summary> ...
-      </details>
-      <details>
-      <summary>Where's the cheese?</summary> ...
-      </details></div>
+        <details>
+        <summary>💨💨</summary> ...
+        </details>
+        <details>
+        <summary>💨💨</summary> ...
+        </details>
+        <details>
+        <summary>💨💨</summary> ...
+        </details>
+        <details>
+        <summary>💨💨</summary> ...
+        </details>
     </details>
   </details>
     
