@@ -41,8 +41,7 @@ Here are some ideas to get you started: -->
   <div align="center"> 📦 Ha! You fell for it.</div>
     
   <details>
-    <summary>💔 Where's the cheese?</summary>
-    🕵🏻‍♂ Find it.
+    <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it.
     <details>
       <summary>👁</summary>
       <div><details>
