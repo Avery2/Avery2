@@ -39,16 +39,12 @@ Here are some ideas to get you started: -->
   <details>
   <summary>🪤</summary>
   <div align="center"> 📦 Ha! You fell for it.</div>
-  <div><details>
-  <summary>...</summary>
-  <div> I'm bored on a friday night.</div>
-  </details></div>
     
-  <div><details>
+  <details>
     <summary>Where's the cheese?</summary>
-    <div> 🕵🏻‍♂️ </div>
+    <div> 🕵🏻‍♂ </div>
     <div><details>
-      <summary>🧩</summary>
+      <summary>👁</summary>
       <div> Find it. </div>
       <div><details>
       <summary>Where's the cheese?</summary>
@@ -59,7 +55,7 @@ Here are some ideas to get you started: -->
       <div> ... </div>
       </details></div>
     </details><details>
-      <summary>🧩</summary>
+      <summary>👃</summary>
       <div> Find it. </div>
       <div><details>
       <summary>Where's the cheese?</summary>
@@ -70,7 +66,7 @@ Here are some ideas to get you started: -->
       <div> ... </div>
       </details></div>
     </details></div>
-  </details></div>
+  </details>
     
   </details>
 </div>
