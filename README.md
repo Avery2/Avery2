@@ -40,6 +40,7 @@ Here are some ideas to get you started: -->
   <summary>🪤</summary>
   <div align="center"> 📦 Ha! You fell for it.</div>
     
+  <div align="left">
   <details>
     <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
     <details>
@@ -497,7 +498,7 @@ Here are some ideas to get you started: -->
           </details>
         </details>
     </details>
-  </details>
+  </details></div>
     
   </details>
 </div>
