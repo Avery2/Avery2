@@ -47,7 +47,7 @@ Here are some ideas to get you started: -->
     <details>
       <summary>👃</summary>
         <details>
-        <summary>&nbsp;&nbsp;&nbsp;&nbsp;💨</summary> 
+        <summary>&nbsp;&nbsp;&nbsp;&nbsp;💨</summary> Follow your nose!
           <details>
           <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💨💨</summary> 
             <details>
