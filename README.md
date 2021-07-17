@@ -182,7 +182,7 @@ Here are some ideas to get you started: -->
             <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚪</summary> ...
             </details>
             <details>
-            <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚪</summary> ...
+            <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚪</summary> 🧀 Well done.
             </details>
             <details>
             <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚪</summary> ...
@@ -394,7 +394,7 @@ Here are some ideas to get you started: -->
             <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💨💨💨</summary> ...
             </details>
             <details>
-            <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💨💨💨💨</summary> 🧀 Well done. You have almost as much free time as me.
+            <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💨💨💨💨</summary> 🧀 Well done.
             </details>
             <details>
             <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💨💨💨</summary> ...
