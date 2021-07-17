@@ -45,22 +45,18 @@ Here are some ideas to get you started: -->
     <details>
       <summary>👁</summary>
       <div><details>
-      <summary>Where's the cheese?</summary>
-      <div> ... </div>
+      <summary>Where's the cheese?</summary> ...
       </details>
       <details>
-      <summary>Where's the cheese?</summary>
-      <div> ... </div>
+      <summary>Where's the cheese?</summary> ...
       </details></div>
     </details><details>
       <summary>👃</summary>
       <div><details>
-      <summary>Where's the cheese?</summary>
-      <div> ... </div>
+      <summary>Where's the cheese?</summary> ...
       </details>
       <details>
-      <summary>Where's the cheese?</summary>
-      <div> ... </div>
+      <summary>Where's the cheese?</summary> ...
       </details></div>
     </details>
   </details>
