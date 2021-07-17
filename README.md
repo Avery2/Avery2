@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
   <details>
     <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
     <details>
-      <summary>👁</summary>
+      <summary>👁</summary> > “Don't think too much, you'll think your whole life away. Just stop, close your eyes, and follow your heart. I guarantee you, it knows the way.”
         <details>
         <summary>🚪</summary> 
           <details>
