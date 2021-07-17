@@ -35,38 +35,6 @@ Here are some ideas to get you started: -->
   [1]: http://www.paulgraham.com/start.html
   [2]: https://en.wikipedia.org/wiki/A_Crown_of_Swords -->
 
-  <details>
-            <summary>🚪</summary> ...
-            </details>
-            <details>
-            <summary>🚪</summary> ...
-            </details>
-            <details>
-            <summary>🚪</summary> ...
-            </details>
-            <details>
-            <summary>🚪</summary> ...
-            </details>
-            <details>
-            <summary>🚪</summary> ...
-            </details>
-
-  <details>
-            <summary>💨💨💨</summary> ...
-            </details>
-            <details>
-            <summary>💨💨💨</summary> ...
-            </details>
-            <details>
-            <summary>💨💨💨</summary> ...
-            </details>
-            <details>
-            <summary>💨💨💨</summary> ...
-            </details>
-            <details>
-            <summary>💨💨💨</summary> ...
-            </details>
-
 <div align="center">
   <details>
   <summary>🪤</summary>
@@ -79,7 +47,7 @@ Here are some ideas to get you started: -->
         <details>
         <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> 
+          <summary>   🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
