@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
   <div align="left">
   <details>
     <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
-    <!-- SIGHT -->
+    <!-- SMELL -->
     <details>
       <summary>👃</summary>
         <details>
@@ -272,7 +272,7 @@ Here are some ideas to get you started: -->
           </details>
         </details>
     </details>
-    <!-- SMELL -->
+    <!-- SIGHT -->
     <details>
       <summary>👁</summary> “Don't think too much, you'll think your whole life away. Just stop, close your eyes, and follow your heart. I guarantee you, it knows the way.”
         <details>
