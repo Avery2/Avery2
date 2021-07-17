@@ -20,9 +20,6 @@ Here are some ideas to get you started: -->
   </a>
 </div>
 
-<details>
-  <summary>🪤</summary>
-  
 <!--   - 🔭 I’m currently working on ... -->
 <!--   - 👯 I’m looking to collaborate on ... -->
 <!--   - 🤔 I’m looking for help with ... -->
@@ -37,5 +34,33 @@ Here are some ideas to get you started: -->
 
   [1]: http://www.paulgraham.com/start.html
   [2]: https://en.wikipedia.org/wiki/A_Crown_of_Swords -->
-  <div align="center"> 🧀 Ha! You fell for it.</div>
-</details>
+
+<div align="center">
+  <details>
+  <summary>🪤</summary>
+  <div align="center"> 📦 Ha! You fell for it.</div>
+  <div><details>
+  <summary>...</summary>
+  <div> I'm bored on a friday night.</div>
+  </details></div>
+    
+  <div><details>
+    <summary>Where's the cheese?</summary>
+    <div> 🕵🏻‍♂️ </div>
+    <!-- A -->
+    <div><details>
+    <summary>🧩</summary>
+    <div> Find it. </div>
+    <div><details>
+    <summary>Where's the cheese?</summary>
+    <div> ... </div>
+    </details>
+    <details>
+    <summary>Where's the cheese?</summary>
+    <div> ... </div>
+    </details></div>
+    </details></div>
+  </details></div>
+    
+  </details>
+</div>
