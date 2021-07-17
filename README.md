@@ -42,8 +42,8 @@ Here are some ideas to get you started: -->
     
   <details>
     <summary>💔 Where's the cheese?</summary>
-    <div> 🕵🏻‍♂ Find it.</div>
-    <div><details>
+    🕵🏻‍♂ Find it.
+    <details>
       <summary>👁</summary>
       <div><details>
       <summary>Where's the cheese?</summary>
@@ -63,7 +63,7 @@ Here are some ideas to get you started: -->
       <summary>Where's the cheese?</summary>
       <div> ... </div>
       </details></div>
-    </details></div>
+    </details>
   </details>
     
   </details>
