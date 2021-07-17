@@ -43,11 +43,11 @@ Here are some ideas to get you started: -->
   <details>
     <summary>💔 Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
     <details>
-      <summary>&nbsp;👁</summary>
+      <summary>👁</summary>
         <details>
         <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -65,7 +65,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -83,7 +83,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -101,7 +101,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -122,7 +122,7 @@ Here are some ideas to get you started: -->
         <details>
         <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -140,7 +140,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -158,7 +158,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -176,7 +176,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -197,7 +197,7 @@ Here are some ideas to get you started: -->
         <details>
         <summary>🚪</summary> 
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -215,7 +215,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -233,7 +233,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
@@ -251,7 +251,7 @@ Here are some ideas to get you started: -->
             </details>
           </details>
           <details>
-          <summary>🚪</summary> 
+          <summary>&nbsp;&nbsp;&nbsp;🚪</summary> 
             <details>
             <summary>🚪</summary> ...
             </details>
