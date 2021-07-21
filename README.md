@@ -15,9 +15,9 @@ Here are some ideas to get you started: -->
   <a href="https://www.averychan.site/" target="__blank">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues" />
   </a>
-<!--   <a href="https://www.averychan.site/" target="__blank">
+  <a href="https://www.averychan.site/" target="__blank">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avery2&layout=compact" />
-  </a> -->
+  </a>
 </div>
 
 <!--   - 🔭 I’m currently working on  -->
