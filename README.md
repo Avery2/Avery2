@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me: [email](mailto:justinaverychan@gmail.com) | [linkedin](https://www.linkedin.com/in/avery2/)
 - 🌐 Website: https://www.averychan.site
-- 😄 Pronouns: He/Him
+<!-- - 😄 Pronouns: He/Him -->
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=contribs,stars)](https://www.averychan.site/) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avery2&layout=compact)](https://www.averychan.site/) -->
