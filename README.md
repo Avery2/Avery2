@@ -35,15 +35,13 @@ Here are some ideas to get you started: -->
   [1]: http://www.paulgraham.com/start.html
   [2]: https://en.wikipedia.org/wiki/A_Crown_of_Swords -->
 
-<div align="center">
+<!-- <div align="center">
   <details>
   <summary>🪤</summary>
   <div align="left"> 📦 Ha! You fell for it.</div>
-    
   <div align="left">
   <details>
     <summary>Where's the cheese?</summary> 🕵🏻‍♂ Find it. Use your senses.
-    <!-- SMELL -->
     <details>
       <summary>👃</summary>
         <details>
@@ -272,7 +270,6 @@ Here are some ideas to get you started: -->
           </details>
         </details>
     </details>
-    <!-- SIGHT -->
     <details>
       <summary>👁</summary> “Don't think too much, you'll think your whole life away. Just stop, close your eyes, and follow your heart. I guarantee you, it knows the way.”
         <details>
@@ -502,6 +499,5 @@ Here are some ideas to get you started: -->
         </details>
     </details>
   </details></div>
-    
   </details>
-</div>
+</div> -->
