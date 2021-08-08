@@ -17,3 +17,5 @@ I’m currently a computer science and data science double major at the Universi
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
   </a>
 </div>
+
+<!--START_SECTION:activity-->
