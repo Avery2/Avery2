@@ -4,7 +4,7 @@ I’m currently a computer science and data science double major at the Universi
 
 <!-- Badges from https://shields.io -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/avery2"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/avery2"><img alt="LinkedIn" src="https://img.shields.io/badge/Justin Chan-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:justinaverychan@gmail.com"><img alt="email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.averychan.site"><img alt="website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=averychan.site&up_color=green&up_message=online&url=https%3A%2F%2Fwww.averychan.site"/></a>
 </div>
