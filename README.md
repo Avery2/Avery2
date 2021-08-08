@@ -1,4 +1,4 @@
-### Hello 👋
+### Welcome 👋
 
 Hi, I’m Avery (_full name: Justin "Avery" Chan_). I’m currently a computer science and data science double major at the University of Wisconsin-Madison. I love reading and productivity software. Contact and more info:
 
