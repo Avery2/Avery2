@@ -1,21 +1,16 @@
-### Hi, I'm Avery 👋
+### Welcome 👋
 
-- 📫 How to reach me: [email](mailto:justinaverychan@gmail.com) | [linkedin](https://www.linkedin.com/in/avery2/)
-- 🌐 Website: https://www.averychan.site
+Hi, I’m Avery (_full name: Justin "Avery" Chan_). I’m currently a computer science and data science double major at the University of Wisconsin-Madison. I love reading and productivity software. Contact and more info:
 
+<!-- Badges from https://shields.io -->
 <div align="center">
-  <a href="https://www.averychan.site/" target="__blank">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues" />
-  </a>
-<!--   <a href="https://www.averychan.site/" target="__blank">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avery2&layout=compact" />
-  </a> -->
+  <a href="https://www.linkedin.com/in/avery2"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:justinaverychan@gmail.com"><img alt="email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.averychan.site"><img alt="website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=averychan.site&up_color=green&up_message=online&url=https%3A%2F%2Fwww.averychan.site"/></a>
 </div>
 
-<!--   - 😄 Pronouns: He/Him -->
-<!--   - 🔭 I’m currently working on  -->
-<!--   - 👯 I’m looking to collaborate on  -->
-<!--   - 🤔 I’m looking for help with  -->
-<!--   - 💬 Tell me about  anything you find really interesting -->
-<!--   - ⚡ Fun fact:  -->
-<!--   - 🌱 I’m currently learning  R and ML classification problems -->
+<div align="center">
+  <a href="https://github.com/Avery2" target="__blank">
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
+  </a>
+</div>
