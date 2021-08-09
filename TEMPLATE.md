@@ -12,11 +12,26 @@ I’m currently a computer science and data science double major at the Universi
 
 <br/>
 
+<details>
+  <summary>💻 GitHub Stats</summary>
+
 <div align="center">
   <a href="https://github.com/Avery2" target="__blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" /> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
   </a>
 </div>
+  
+</details>
+
+<details>
+  <summary>🛠 Tools for this README</summary>
+  
+  - [Sheilds.io for the badges](https://shields.io)
+  - [Profile-readme-stats for recenty activity](https://github.com/marketplace/actions/profile-readme-stats)
+  - [Github-readme-stats for the GitHub stats summary](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 
 ---
 
