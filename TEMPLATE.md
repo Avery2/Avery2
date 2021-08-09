@@ -1,6 +1,6 @@
-### Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
+# Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
 
-I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/). 
+I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/).
 
 <!-- Badges from https://shields.io -->
 <div align="center">
@@ -8,31 +8,34 @@ I’m currently a computer science and data science double major at the Universi
   <a href="mailto:justinaverychan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.averychan.site"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=averychan.site&up_color=green&up_message=online&url=https%3A%2F%2Fwww.averychan.site"/></a>
     <a href="https://www.averychan.site/assets/Resume-2021-July-10.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
-</div>
-
----
+</div><br/>
 
 <!-- Updating with this https://github.com/actions-js/profile-readme -->
-### Recent Activity <sub><sup>_(auto-generated)_</sup></sub>
+
+<details>
+<summary>📈 Recent Activity <sub><sup>(auto-generated)</sup></sub></summary>
+
 <!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
 
----
+</details>
 
+<details>
+<summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP-->)</sup></sub></summary>
+
+<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
+
+</details>
 
 <details>
   <summary>💻 GitHub Stats</summary>
-  
   <br/>
-
-<div align="center">
-  <a href="https://github.com/Avery2" target="__blank">
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" /> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
-  </a>
-</div>
-  
+  <div align="center">
+    <a href="https://github.com/Avery2" target="__blank">
+  <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" /> -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
+    </a>
+  </div>
   <br/>
-  
 </details>
 
 <details>
