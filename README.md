@@ -12,15 +12,17 @@ I’m currently a computer science and data science double major at the Universi
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/Avery2" target="__blank">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
   </a>
-</div> -->
+</div>
 
-<a href="https://github.com/Avery2" target="__blank">
+---
+
+<!-- <a href="https://github.com/Avery2" target="__blank">
   <img align="right" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
-</a>
+</a> -->
 
 Recent Activity:
 * 🍴 Forked Avery2/productive-box from maxam2017/productive-box
