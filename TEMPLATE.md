@@ -12,9 +12,9 @@ I’m currently a computer science and data science double major at the Universi
 
 ---
 
-<!-- Updating with this https://github.com/marketplace/actions/profile-readme-stats -->
+<!-- Updating with this https://github.com/actions-js/profile-readme -->
 #### Recent Activity:
-<!--GITHUB_ACTIVITY:{"rows": 5, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
+<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
 
 ---
 
@@ -35,7 +35,7 @@ I’m currently a computer science and data science double major at the Universi
   <summary>🛠 Tools for this README</summary>
   
   - [Sheilds.io for the badges](https://shields.io)
-  - [Profile-readme-stats for recenty activity](https://github.com/marketplace/actions/profile-readme-stats)
+  - [Profile-readme for recenty activity](https://github.com/actions-js/profile-readme)
   - [Github-readme-stats for the GitHub stats summary](https://github.com/anuraghazra/github-readme-stats)
   - [Productive-box for pinned gist (below) of commit times](https://github.com/maxam2017/productive-box)
   
