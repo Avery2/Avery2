@@ -10,7 +10,7 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈<br />&nbsp;Recent Activity <sub><sup>(last updated Monday, August 9th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Monday, August 9th 2021)</sup></sub></summary>
 
 <h4>
 
@@ -29,7 +29,7 @@ I’m currently a computer science and data science double major at the Universi
 </details>
 
 <details>
-  <summary>💻<br />&nbsp;GitHub Stats</summary>
+  <summary>💻 GitHub Stats</summary>
   <br/>
   <div align="center">
     <a href="https://github.com/Avery2" target="__blank">
@@ -40,7 +40,7 @@ I’m currently a computer science and data science double major at the Universi
 </details>
 
 <details>
-  <summary>🛠<br />&nbsp;Tools for this README</summary><br/>
+  <summary>🛠 Tools for this README</summary><br/>
 
 <div align="center">
 <h4>
