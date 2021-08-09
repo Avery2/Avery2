@@ -10,7 +10,14 @@ I’m currently a computer science and data science double major at the Universi
     <a href="https://www.averychan.site/assets/Resume-2021-July-10.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
 </div>
 
-<br/>
+---
+
+<!-- Updating with this https://github.com/marketplace/actions/profile-readme-stats -->
+#### Recent Activity:
+<!--GITHUB_ACTIVITY:{"rows": 5, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
+
+---
+
 
 <details>
   <summary>💻 GitHub Stats</summary>
@@ -33,9 +40,3 @@ I’m currently a computer science and data science double major at the Universi
   - [Productive-box for pinned gist (below) of commit times](https://github.com/maxam2017/productive-box)
   
 </details>
-
----
-
-<!-- Updating with this https://github.com/marketplace/actions/profile-readme-stats -->
-#### Recent Activity:
-<!--GITHUB_ACTIVITY:{"rows": 5, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
