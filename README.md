@@ -22,10 +22,4 @@ I’m currently a computer science and data science double major at the Universi
   <img align="right" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
 </a>
 
-<ul>
-  <li>asd d sa dsa asd d sa dsa </li>
-  <li>asd d sa dsa </li>
-  <li>asd d sa dsa asd d sa dsa asd d sa dsa </li>
-  <li>asd d sa dsa </li>
-  <li>asd d sa dsa dasf</li>
-</ul>
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
