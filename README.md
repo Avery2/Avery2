@@ -23,7 +23,7 @@ I’m currently a computer science and data science double major at the Universi
 </a>
 
 Recent Activity:
-* ⬆️ Pushed 1 commit to Avery2/Avery2
-* ⬆️ Pushed 1 commit to Avery2/Avery2
-* ⬆️ Pushed 1 commit to Avery2/Avery2
-* ⬆️ Pushed 1 commit to Avery2/Avery2
+* 🍴 Forked Avery2/productive-box from maxam2017/productive-box
+* 💪 Opened PR #30 in JasonEtco/activity-box
+* 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
+* 🎉 Merged PR #1 in Avery2/ActivityBox
