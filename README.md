@@ -14,13 +14,19 @@ I’m currently a computer science and data science double major at the Universi
 
 <br/>
 
-* 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
-* 🍴 Forked Avery2/productive-box from maxam2017/productive-box
-* 💪 Opened PR #30 in JasonEtco/activity-box
-* 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
-* 🎉 Merged PR #1 in Avery2/ActivityBox
-* 🎉 Merged PR #2 in Avery2/ActivityBox
-* 🎉 Merged PR #3 in Avery2/ActivityBox
+<h3>
+
+```
+🍴 Forked Avery2/rednafi from rednafi/rednafi
+🍴 Forked Avery2/Thaiane from Thaiane/Thaiane
+🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
+🍴 Forked Avery2/productive-box from maxam2017/productive-box
+💪 Opened PR #30 in JasonEtco/activity-box
+🍴 Forked Avery2/activity-box from JasonEtco/activity-box
+🎉 Merged PR #1 in Avery2/ActivityBox
+```
+
+</h3>
 
 </details>
 
@@ -37,10 +43,16 @@ I’m currently a computer science and data science double major at the Universi
 
 <details>
   <summary>🛠 Tools for this README</summary><br/>
-  
-  - [Sheilds.io for the badges](https://shields.io)
-  - [Profile-readme for recenty activity](https://github.com/actions-js/profile-readme)
-  - [Github-readme-stats for the GitHub stats summary](https://github.com/anuraghazra/github-readme-stats)
-  - [Productive-box for pinned gist (below) of commit times](https://github.com/maxam2017/productive-box)
+
+<h3>
+
+| Tool | Link |
+|---:|---:|
+| Sheilds.io for the badges | [link](https://shields.io) |
+| Profile-readme for recent activity | [link](https://github.com/actions-js/profile-readme) |
+| Github-readme-stats for the GitHub stats summary | [link](https://github.com/anuraghazra/github-readme-stats) |
+| Productive-box for pinned gist (below) of commit times | [link](https://github.com/maxam2017/productive-box) ||
+
+</h3>
   
 </details>
