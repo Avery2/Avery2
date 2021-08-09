@@ -23,4 +23,4 @@ I’m currently a computer science and data science double major at the Universi
 </a>
 
 Recent Activity:
-<!--GITHUB_ACTIVITY:{"rows": 4}-->
+<!--GITHUB_ACTIVITY:{"rows": 4, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
