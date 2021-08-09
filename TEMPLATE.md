@@ -2,7 +2,6 @@
 
 I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/).
 
-<!-- Badges from https://shields.io -->
 <div align="center">
   <a href="https://www.linkedin.com/in/avery2"><img alt="LinkedIn" src="https://img.shields.io/badge/Justin_Chan-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:justinaverychan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -10,19 +9,10 @@ I’m currently a computer science and data science double major at the Universi
     <a href="https://www.averychan.site/assets/Resume-2021-July-10.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
 </div><br/>
 
-<!-- Updating with this https://github.com/actions-js/profile-readme -->
-
 <details>
-<summary>📈 Recent Activity <sub><sup>(auto-generated)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}-->)</sup></sub></summary>
 
-<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
-
-</details>
-
-<details>
-<summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP-->)</sup></sub></summary>
-
-<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
+<br/><!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}--><br/>
 
 </details>
 
@@ -31,7 +21,6 @@ I’m currently a computer science and data science double major at the Universi
   <br/>
   <div align="center">
     <a href="https://github.com/Avery2" target="__blank">
-  <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" /> -->
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
     </a>
   </div>
