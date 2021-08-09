@@ -1,5 +1,8 @@
 name: Update Actions
-on: [push]
+on:
+  push:
+  schedule:
+    - cron:  '0 */6 * * *'
 jobs:
   publish:
     runs-on: ubuntu-latest
