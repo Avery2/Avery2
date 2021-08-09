@@ -10,7 +10,18 @@ I’m currently a computer science and data science double major at the Universi
     <a href="https://www.averychan.site/assets/Resume-2021-July-10.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
 </div>
 
-<br/>
+---
+
+<!-- Updating with this https://github.com/marketplace/actions/profile-readme-stats -->
+#### Recent Activity:
+* 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
+* 🍴 Forked Avery2/productive-box from maxam2017/productive-box
+* 💪 Opened PR #30 in JasonEtco/activity-box
+* 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
+* 🎉 Merged PR #1 in Avery2/ActivityBox
+
+---
+
 
 <details>
   <summary>💻 GitHub Stats</summary>
@@ -33,13 +44,3 @@ I’m currently a computer science and data science double major at the Universi
   - [Productive-box for pinned gist (below) of commit times](https://github.com/maxam2017/productive-box)
   
 </details>
-
----
-
-<!-- Updating with this https://github.com/marketplace/actions/profile-readme-stats -->
-#### Recent Activity:
-* 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
-* 🍴 Forked Avery2/productive-box from maxam2017/productive-box
-* 💪 Opened PR #30 in JasonEtco/activity-box
-* 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
-* 🎉 Merged PR #1 in Avery2/ActivityBox
