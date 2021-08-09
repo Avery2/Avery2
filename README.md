@@ -1,6 +1,6 @@
 ### Hi, I’m Avery 👋 <sub><sup>_(Full name: Justin "Avery" Chan)_</sup></sub>
 
-I’m currently a computer science and data science double major at the University of Wisconsin-Madison working as a developer intern at [Halo Science](https://www.halo.science/). Contact and more info:
+I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/). 
 
 <!-- Badges from https://shields.io -->
 <div align="center">
@@ -17,5 +17,3 @@ I’m currently a computer science and data science double major at the Universi
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
   </a>
 </div>
-
-<!--START_SECTION:activity-->
