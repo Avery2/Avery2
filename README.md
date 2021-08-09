@@ -12,7 +12,7 @@ I’m currently a computer science and data science double major at the Universi
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated Monday, August 9th 2021)</sup></sub></summary>
 
-<h3>
+<h4>
 
 ```
 🍴 Forked Avery2/rednafi from rednafi/rednafi
@@ -24,7 +24,7 @@ I’m currently a computer science and data science double major at the Universi
 🎉 Merged PR #1 in Avery2/ActivityBox
 ```
 
-</h3>
+</h4>
 
 </details>
 
