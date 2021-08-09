@@ -21,6 +21,8 @@ I’m currently a computer science and data science double major at the Universi
 
 <details>
   <summary>💻 GitHub Stats</summary>
+  
+  <br/>
 
 <div align="center">
   <a href="https://github.com/Avery2" target="__blank">
@@ -29,10 +31,12 @@ I’m currently a computer science and data science double major at the Universi
   </a>
 </div>
   
+  <br/>
+  
 </details>
 
 <details>
-  <summary>🛠 Tools for this README</summary>
+  <summary>🛠 Tools for this README</summary><br/>
   
   - [Sheilds.io for the badges](https://shields.io)
   - [Profile-readme for recenty activity](https://github.com/actions-js/profile-readme)
