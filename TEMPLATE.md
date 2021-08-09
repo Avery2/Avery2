@@ -10,7 +10,7 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}-->)</sup></sub></summary>
+<summary>📈<br />&nbsp;Recent Activity <sub><sup>(last updated <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}-->)</sup></sub></summary>
 
 <h4>
 
@@ -23,7 +23,7 @@ I’m currently a computer science and data science double major at the Universi
 </details>
 
 <details>
-  <summary>💻 GitHub Stats</summary>
+  <summary>💻<br />&nbsp;GitHub Stats</summary>
   <br/>
   <div align="center">
     <a href="https://github.com/Avery2" target="__blank">
@@ -34,7 +34,7 @@ I’m currently a computer science and data science double major at the Universi
 </details>
 
 <details>
-  <summary>🛠 Tools for this README</summary><br/>
+  <summary>🛠<br />&nbsp;Tools for this README</summary><br/>
 
 <div align="center">
 <h4>
