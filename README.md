@@ -24,8 +24,9 @@ I’m currently a computer science and data science double major at the Universi
   <img align="right" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
 </a> -->
 
-Recent Activity:
+#### Recent Activity:
 * 🍴 Forked Avery2/productive-box from maxam2017/productive-box
 * 💪 Opened PR #30 in JasonEtco/activity-box
 * 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
 * 🎉 Merged PR #1 in Avery2/ActivityBox
+* 🎉 Merged PR #2 in Avery2/ActivityBox
