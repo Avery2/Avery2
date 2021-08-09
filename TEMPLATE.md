@@ -14,7 +14,13 @@ I’m currently a computer science and data science double major at the Universi
 
 <br/>
 
-<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
+<h3>
+
+```
+<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"], "raw": true}-->
+```
+
+</h3>
 
 </details>
 
@@ -31,10 +37,16 @@ I’m currently a computer science and data science double major at the Universi
 
 <details>
   <summary>🛠 Tools for this README</summary><br/>
-  
-  - [Sheilds.io for the badges](https://shields.io)
-  - [Profile-readme for recenty activity](https://github.com/actions-js/profile-readme)
-  - [Github-readme-stats for the GitHub stats summary](https://github.com/anuraghazra/github-readme-stats)
-  - [Productive-box for pinned gist (below) of commit times](https://github.com/maxam2017/productive-box)
+
+<h3>
+
+| Tool | Link |
+|---:|---:|
+| Sheilds.io for the badges | [link](https://shields.io) |
+| Profile-readme for recent activity | [link](https://github.com/actions-js/profile-readme) |
+| Github-readme-stats for the GitHub stats summary | [link](https://github.com/anuraghazra/github-readme-stats) |
+| Productive-box for pinned gist (below) of commit times | [link](https://github.com/maxam2017/productive-box) ||
+
+</h3>
   
 </details>
