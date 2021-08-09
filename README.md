@@ -22,8 +22,6 @@ I’m currently a computer science and data science double major at the Universi
 * 🎉 Merged PR #2 in Avery2/ActivityBox
 * 🎉 Merged PR #3 in Avery2/ActivityBox
 
-<br/>
-
 </details>
 
 <details>
