@@ -46,7 +46,7 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
 
 | Tool | Link |
-|---|---:|
+|---|:---:|
 | Sheilds.io for the badges | [link](https://shields.io) |
 | Profile-readme for recent activity | [link](https://github.com/actions-js/profile-readme) |
 | Github-readme-stats for the GitHub stats summary | [link](https://github.com/anuraghazra/github-readme-stats) |
