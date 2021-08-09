@@ -12,13 +12,13 @@ I’m currently a computer science and data science double major at the Universi
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}-->)</sup></sub></summary>
 
-<h3>
+<h4>
 
 ```
 <!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"], "raw": true}-->
 ```
 
-</h3>
+</h4>
 
 </details>
 
