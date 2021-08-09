@@ -12,8 +12,6 @@ I’m currently a computer science and data science double major at the Universi
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated Monday, August 9th 2021)</sup></sub></summary>
 
-<br/>
-
 <h3>
 
 ```
@@ -44,15 +42,17 @@ I’m currently a computer science and data science double major at the Universi
 <details>
   <summary>🛠 Tools for this README</summary><br/>
 
-<h3>
+<div align="center">
+<h4>
 
 | Tool | Link |
-|---:|---:|
+|---|---:|
 | Sheilds.io for the badges | [link](https://shields.io) |
 | Profile-readme for recent activity | [link](https://github.com/actions-js/profile-readme) |
 | Github-readme-stats for the GitHub stats summary | [link](https://github.com/anuraghazra/github-readme-stats) |
 | Productive-box for pinned gist (below) of commit times | [link](https://github.com/maxam2017/productive-box) ||
 
-</h3>
+</h4>
+</div>
   
 </details>
