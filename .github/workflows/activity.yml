@@ -2,7 +2,7 @@ name: Update Actions
 on:
   push:
   schedule:
-    - cron:  '0 */6 * * *'
+    - cron:  '0 * * * *'
 jobs:
   publish:
     runs-on: ubuntu-latest
