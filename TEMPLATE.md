@@ -16,8 +16,6 @@ I’m currently a computer science and data science double major at the Universi
 
 <!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
 
-<br/>
-
 </details>
 
 <details>
