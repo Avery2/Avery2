@@ -22,8 +22,8 @@ I’m currently a computer science and data science double major at the Universi
   <img align="right" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" />
 </a>
 
-⬆️ Pushed 1 commit to Avery2/Avery2
-⬆️ Pushed 1 commit to Avery2/Avery2
-⬆️ Pushed 1 commit to Avery2/Avery2
-⬆️ Pushed 1 commit to Avery2/Avery2
-⬆️ Pushed 1 commit to Avery2/Avery2
+* ⬆️ Pushed 1 commit to Avery2/Avery2
+* ⬆️ Pushed 1 commit to Avery2/Avery2
+* ⬆️ Pushed 1 commit to Avery2/Avery2
+* ⬆️ Pushed 1 commit to Avery2/Avery2
+* ⬆️ Pushed 1 commit to Avery2/Avery2
