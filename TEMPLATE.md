@@ -1,4 +1,4 @@
-### Hi, I’m Avery 👋 <sub><sup>_(Full name: Justin "Avery" Chan)_</sup></sub>
+### Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
 
 I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/). 
 
@@ -13,7 +13,7 @@ I’m currently a computer science and data science double major at the Universi
 ---
 
 <!-- Updating with this https://github.com/actions-js/profile-readme -->
-#### Recent Activity:
+### Recent Activity <sub><sup>_(auto-generated)_</sup></sub>
 <!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"]}-->
 
 ---
