@@ -12,13 +12,17 @@ I’m currently a computer science and data science double major at the Universi
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated Monday, August 9th 2021)</sup></sub></summary>
 
-<br/>* 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
+<br/>
+
+* 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
 * 🍴 Forked Avery2/productive-box from maxam2017/productive-box
 * 💪 Opened PR #30 in JasonEtco/activity-box
 * 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
 * 🎉 Merged PR #1 in Avery2/ActivityBox
 * 🎉 Merged PR #2 in Avery2/ActivityBox
-* 🎉 Merged PR #3 in Avery2/ActivityBox<br/>
+* 🎉 Merged PR #3 in Avery2/ActivityBox
+
+<br/>
 
 </details>
 
