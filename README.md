@@ -1,6 +1,6 @@
-### Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
+# Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
 
-I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/). 
+I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/).
 
 <!-- Badges from https://shields.io -->
 <div align="center">
@@ -8,12 +8,13 @@ I’m currently a computer science and data science double major at the Universi
   <a href="mailto:justinaverychan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.averychan.site"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=averychan.site&up_color=green&up_message=online&url=https%3A%2F%2Fwww.averychan.site"/></a>
     <a href="https://www.averychan.site/assets/Resume-2021-July-10.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
-</div>
-
----
+</div><br/>
 
 <!-- Updating with this https://github.com/actions-js/profile-readme -->
-### Recent Activity <sub><sup>_(auto-generated)_</sup></sub>
+
+<details>
+<summary>📈 Recent Activity <sub><sup>(auto-generated)</sup></sub></summary>
+
 * 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
 * 🍴 Forked Avery2/productive-box from maxam2017/productive-box
 * 💪 Opened PR #30 in JasonEtco/activity-box
@@ -22,23 +23,31 @@ I’m currently a computer science and data science double major at the Universi
 * 🎉 Merged PR #2 in Avery2/ActivityBox
 * 🎉 Merged PR #3 in Avery2/ActivityBox
 
----
+</details>
 
+<details>
+<summary>📈 Recent Activity <sub><sup>(last updated 2021-08-09T20:58:22Z)</sup></sub></summary>
+
+* 🍴 Forked Avery2/samujjwaal from samujjwaal/samujjwaal
+* 🍴 Forked Avery2/productive-box from maxam2017/productive-box
+* 💪 Opened PR #30 in JasonEtco/activity-box
+* 🍴 Forked Avery2/activity-box from JasonEtco/activity-box
+* 🎉 Merged PR #1 in Avery2/ActivityBox
+* 🎉 Merged PR #2 in Avery2/ActivityBox
+* 🎉 Merged PR #3 in Avery2/ActivityBox
+
+</details>
 
 <details>
   <summary>💻 GitHub Stats</summary>
-  
   <br/>
-
-<div align="center">
-  <a href="https://github.com/Avery2" target="__blank">
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" /> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
-  </a>
-</div>
-  
+  <div align="center">
+    <a href="https://github.com/Avery2" target="__blank">
+  <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true" /> -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
+    </a>
+  </div>
   <br/>
-  
 </details>
 
 <details>
