@@ -3,6 +3,7 @@
 I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/).
 
 <div align="center">
+  <a href="https://github.com/Avery2"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230077B5.svg?style=flat&logo=github&logoColor=white&color=25292E"/></a>
   <a href="https://www.linkedin.com/in/avery2"><img alt="LinkedIn" src="https://img.shields.io/badge/Justin_Chan-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:justinaverychan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.averychan.site"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=averychan.site&up_color=green&up_message=online&url=https%3A%2F%2Fwww.averychan.site"/></a>
@@ -15,13 +16,13 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
 
 ```
-🍴 Forked Avery2/iampavangandhi from iampavangandhi/iampavangandhi
-💪 Opened PR #19 in jctaveras/heroku-deploy
-🍴 Forked Avery2/heroku-deploy from jctaveras/heroku-deploy
-💪 Opened PR #640 in abhisheknaiidu/awesome-github-profile-readme
-💪 Opened PR #1 in umcody/umcody
-🍴 Forked Avery2/umcody from umcody/umcody
-🍴 Forked Avery2/awesome-github-profile-readme from abhisheknaiidu/awesome-github-profile-readme
+🎉 Merged PR #10 in Avery2/ThoughtApp
+🎉 Merged PR #5 in Avery2/ThoughtApp
+❌ Closed PR #9 in Avery2/ThoughtApp
+🎉 Merged PR #11 in Avery2/ThoughtApp
+💪 Opened PR #11 in Avery2/ThoughtApp
+🎉 Merged PR #7 in Avery2/ThoughtApp
+🎉 Merged PR #8 in Avery2/ThoughtApp
 ```
 
 </h4>
