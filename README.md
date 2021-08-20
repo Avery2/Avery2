@@ -11,18 +11,18 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Thursday, August 19th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Friday, August 20th 2021)</sup></sub></summary>
 
 <h4>
 
 ```
+🎉 Merged PR #27 in Avery2/ThoughtApp
+🎉 Merged PR #25 in Avery2/ThoughtApp
+🎉 Merged PR #23 in Avery2/ThoughtApp
 💪 Opened PR #232 in uw-cmg/MAST-ML
 🎉 Merged PR #20 in Avery2/ThoughtApp
 🎉 Merged PR #22 in Avery2/ThoughtApp
 🎉 Merged PR #18 in Avery2/ThoughtApp
-🎉 Merged PR #19 in Avery2/ThoughtApp
-🎉 Merged PR #21 in Avery2/ThoughtApp
-🎉 Merged PR #13 in Avery2/ThoughtApp
 ```
 
 </h4>
