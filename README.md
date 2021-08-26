@@ -16,19 +16,20 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
 
 ```
-🎉 Merged PR #35 in Avery2/ThoughtApp
-🎉 Merged PR #37 in Avery2/ThoughtApp
-🎉 Merged PR #33 in Avery2/ThoughtApp
-💪 Opened PR #379 in ZachSaucier/Just-Read
-🎉 Merged PR #2 in Financial-Stability/Blindwrite-Clone
-💪 Opened PR #2 in Financial-Stability/Blindwrite-Clone
-🎉 Merged PR #31 in Avery2/ThoughtApp
+🎉 Merged PR #10 in Avery2/Avery2.github.io
+💪 Opened PR #10 in Avery2/Avery2.github.io
+🎉 Merged PR #9 in Avery2/Avery2.github.io
+💪 Opened PR #9 in Avery2/Avery2.github.io
+🎉 Merged PR #8 in Avery2/Avery2.github.io
+💪 Opened PR #8 in Avery2/Avery2.github.io
+🎉 Merged PR #7 in Avery2/Avery2.github.io
 ```
 
 </h4>
 
 </details>
 
+<h4>
 <details>
   <summary>💻 GitHub Stats</summary>
   <br/>
@@ -39,6 +40,7 @@ I’m currently a computer science and data science double major at the Universi
   </div>
   <br/>
 </details>
+<h4/>
 
 <details>
   <summary>🛠 Tools for this README</summary><br/>
