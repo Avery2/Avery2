@@ -13,6 +13,8 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated Thursday, August 26th 2021)</sup></sub></summary>
+  
+<br/>
 
 ```
 🎉 Merged PR #10 in Avery2/Avery2.github.io
