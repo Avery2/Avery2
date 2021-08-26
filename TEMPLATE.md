@@ -10,18 +10,16 @@ I’m currently a computer science and data science double major at the Universi
     <a href="https://www.averychan.site/normal-resume/Justin_Avery_Chan_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
 </div><br/>
 
+<h4>
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}-->)</sup></sub></summary>
-
-<h4>
 
 ```
 <!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"], "raw": true}-->
 ```
 
-</h4>
-
 </details>
+</h4>
 
 <h4>
 <details>
