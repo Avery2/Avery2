@@ -10,10 +10,9 @@ I’m currently a computer science and data science double major at the Universi
     <a href="https://www.averychan.site/normal-resume/Justin_Avery_Chan_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jul_2021-green"/></a>
 </div><br/>
 
+<h4>
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated Thursday, August 26th 2021)</sup></sub></summary>
-
-<h4>
 
 ```
 🎉 Merged PR #10 in Avery2/Avery2.github.io
@@ -25,9 +24,8 @@ I’m currently a computer science and data science double major at the Universi
 🎉 Merged PR #7 in Avery2/Avery2.github.io
 ```
 
-</h4>
-
 </details>
+</h4>
 
 <h4>
 <details>
