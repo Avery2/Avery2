@@ -11,18 +11,18 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Wednesday, August 25th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Thursday, August 26th 2021)</sup></sub></summary>
 
 <h4>
 
 ```
+🎉 Merged PR #35 in Avery2/ThoughtApp
+🎉 Merged PR #37 in Avery2/ThoughtApp
+🎉 Merged PR #33 in Avery2/ThoughtApp
 💪 Opened PR #379 in ZachSaucier/Just-Read
 🎉 Merged PR #2 in Financial-Stability/Blindwrite-Clone
 💪 Opened PR #2 in Financial-Stability/Blindwrite-Clone
 🎉 Merged PR #31 in Avery2/ThoughtApp
-🎉 Merged PR #32 in Avery2/ThoughtApp
-🎉 Merged PR #26 in Avery2/ThoughtApp
-🎉 Merged PR #24 in Avery2/ThoughtApp
 ```
 
 </h4>
