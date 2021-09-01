@@ -17,13 +17,13 @@ I’m currently a computer science and data science double major at the Universi
 <br/>
 
 ```
+🍴 Forked Avery2/chrome-tab-modifier from sylouuu/chrome-tab-modifier
 🎉 Merged PR #20 in Avery2/Avery2.github.io
 💪 Opened PR #20 in Avery2/Avery2.github.io
 ❗️ Closed issue #1 in Avery2/normal-resume
 💪 Opened PR #81 in YoussefRaafatNasry/portfolYOU
 🎉 Merged PR #19 in Avery2/Avery2.github.io
 💪 Opened PR #19 in Avery2/Avery2.github.io
-🎉 Merged PR #18 in Avery2/Avery2.github.io
 ```
 
 </details>
