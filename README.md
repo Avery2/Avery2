@@ -17,13 +17,13 @@ I’m currently a computer science and data science double major at the Universi
 <br/>
 
 ```
+🍴 Forked Avery2/profile-readme from actions-js/profile-readme
 ❗️ Opened issue #1 in Avery2/SimpleReadme
 🎉 Merged PR #40 in Avery2/ThoughtApp
 🎉 Merged PR #1 in Avery2/my-productive-box
 💪 Opened PR #1 in Avery2/my-productive-box
 🍴 Forked Avery2/chrome-tab-modifier from sylouuu/chrome-tab-modifier
 🎉 Merged PR #20 in Avery2/Avery2.github.io
-💪 Opened PR #20 in Avery2/Avery2.github.io
 ```
 
 </details>
