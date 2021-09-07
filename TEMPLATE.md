@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Avery 👋 <sub><sup><i>(full name: Justin "Avery" Chan)</i></sup></sub></h1>
 
-I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I worked as a developer intern at [Halo Science](https://www.halo.science/).
+I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I worked as a developer intern at [Halo Science](https://www.halo.science/). I have a passion for productivity software and coding. Feel free to reach out to me!
 
 <div align="center">
   <a href="https://github.com/Avery2"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230077B5.svg?style=flat&logo=github&logoColor=white&color=25292E"/></a>
