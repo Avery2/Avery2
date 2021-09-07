@@ -12,18 +12,18 @@ I’m currently a computer science and data science double major at the Universi
 
 <h4>
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Monday, September 6th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Tuesday, September 7th 2021)</sup></sub></summary>
   
 <br/>
 
 ```
+💪 Opened PR #1 in eertl2/eertl2
+🍴 Forked Avery2/eertl2 from eertl2/eertl2
 🍴 Forked Avery2/profile-readme from actions-js/profile-readme
 ❗️ Opened issue #1 in Avery2/SimpleReadme
 🎉 Merged PR #40 in Avery2/ThoughtApp
 🎉 Merged PR #1 in Avery2/my-productive-box
 💪 Opened PR #1 in Avery2/my-productive-box
-🍴 Forked Avery2/chrome-tab-modifier from sylouuu/chrome-tab-modifier
-🎉 Merged PR #20 in Avery2/Avery2.github.io
 ```
 
 </details>
