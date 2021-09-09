@@ -17,13 +17,13 @@ I’m currently a computer science and data science double major at the Universi
 <br/>
 
 ```
+❗️ Opened issue #24 in Avery2/Avery2.github.io
+❗️ Opened issue #23 in Avery2/Avery2.github.io
+❗️ Closed issue #22 in Avery2/Avery2.github.io
 ❗️ Opened issue #22 in Avery2/Avery2.github.io
 ❗️ Opened issue #21 in Avery2/Avery2.github.io
 ❗️ Opened issue #2 in Avery2/normal-resume
 💪 Opened PR #1 in eertl2/eertl2
-🍴 Forked Avery2/eertl2 from eertl2/eertl2
-🍴 Forked Avery2/profile-readme from actions-js/profile-readme
-❗️ Opened issue #1 in Avery2/SimpleReadme
 ```
 
 </details>
