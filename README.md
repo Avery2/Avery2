@@ -12,18 +12,18 @@ I’m currently a computer science and data science double major at the Universi
 
 <h4>
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Friday, September 10th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Saturday, September 11th 2021)</sup></sub></summary>
   
 <br/>
 
 ```
+💪 Opened PR #82 in YoussefRaafatNasry/portfolYOU
 ❗️ Opened issue #24 in Avery2/Avery2.github.io
 ❗️ Opened issue #23 in Avery2/Avery2.github.io
 ❗️ Closed issue #22 in Avery2/Avery2.github.io
 ❗️ Opened issue #22 in Avery2/Avery2.github.io
 ❗️ Opened issue #21 in Avery2/Avery2.github.io
 ❗️ Opened issue #2 in Avery2/normal-resume
-💪 Opened PR #1 in eertl2/eertl2
 ```
 
 </details>
