@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Avery 👋 <sub><sup><i>(full name: Justin "Avery" Chan)</i></sup></sub></h1>
 
-I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I worked as a developer intern at [Halo Science](https://www.halo.science/). I have a passion for productivity software and coding. Feel free to reach out to me!
+I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I worked as a developer intern at [Halo Science](https://www.halo.science/). I like productivity software and coding. Feel free to reach out to me!
 
 <div align="center">
   <a href="https://github.com/Avery2"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230077B5.svg?style=flat&logo=github&logoColor=white&color=25292E"/></a>
@@ -17,13 +17,13 @@ I’m currently a computer science and data science double major at the Universi
 <br/>
 
 ```
+🎉 Merged PR #26 in Avery2/Avery2.github.io
+❌ Closed PR #25 in Avery2/Avery2.github.io
+💪 Opened PR #26 in Avery2/Avery2.github.io
+💪 Opened PR #25 in Avery2/Avery2.github.io
 🍴 Forked Avery2/staticFormEmails from toperkin/staticFormEmails
 🎉 Merged PR #5 in FOSS-UW/FOSS-UW.github.io
 💪 Opened PR #5 in FOSS-UW/FOSS-UW.github.io
-🎉 Merged PR #4 in FOSS-UW/FOSS-UW.github.io
-🍴 Forked Avery2/navn-r from navn-r/navn-r
-❗️ Closed issue #21 in Avery2/Avery2.github.io
-🎉 Merged PR #3 in FOSS-UW/FOSS-UW.github.io
 ```
 
 </details>
