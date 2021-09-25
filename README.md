@@ -12,18 +12,18 @@ I’m currently a computer science and data science double major at the Universi
 
 <h4>
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Friday, September 24th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Saturday, September 25th 2021)</sup></sub></summary>
   
 <br/>
 
 ```
+🍴 Forked Avery2/staticFormEmails from toperkin/staticFormEmails
 🎉 Merged PR #5 in FOSS-UW/FOSS-UW.github.io
 💪 Opened PR #5 in FOSS-UW/FOSS-UW.github.io
 🎉 Merged PR #4 in FOSS-UW/FOSS-UW.github.io
 🍴 Forked Avery2/navn-r from navn-r/navn-r
 ❗️ Closed issue #21 in Avery2/Avery2.github.io
 🎉 Merged PR #3 in FOSS-UW/FOSS-UW.github.io
-❌ Closed PR #1 in FOSS-UW/fossclub-uw.org
 ```
 
 </details>
