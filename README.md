@@ -12,18 +12,18 @@ I’m currently a computer science and data science double major at the Universi
 
 <h4>
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Wednesday, September 29th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Thursday, September 30th 2021)</sup></sub></summary>
   
 <br/>
 
 ```
+❗️ Opened issue #27 in Avery2/Avery2.github.io
+❗️ Closed issue #1 in Avery2/_projects
 ❗️ Opened issue #1 in Avery2/_projects
 💪 Opened PR #1 in eertl2/resume
 🍴 Forked Avery2/resume-1 from eertl2/resume
 🎉 Merged PR #26 in Avery2/Avery2.github.io
 ❌ Closed PR #25 in Avery2/Avery2.github.io
-💪 Opened PR #26 in Avery2/Avery2.github.io
-💪 Opened PR #25 in Avery2/Avery2.github.io
 ```
 
 </details>
