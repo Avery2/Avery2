@@ -12,18 +12,18 @@ I’m currently a computer science and data science double major at the Universi
 
 <h4>
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Monday, October 4th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Tuesday, October 5th 2021)</sup></sub></summary>
   
 <br/>
 
 ```
+🎉 Merged PR #29 in Avery2/Avery2.github.io
+💪 Opened PR #29 in Avery2/Avery2.github.io
 💪 Opened PR #1 in Sbr2251/Sbr2251.github.io
 🍴 Forked Avery2/Sbr2251.github.io from Sbr2251/Sbr2251.github.io
 ❗️ Opened issue #27 in Avery2/Avery2.github.io
 ❗️ Closed issue #1 in Avery2/_projects
 ❗️ Opened issue #1 in Avery2/_projects
-💪 Opened PR #1 in eertl2/resume
-🍴 Forked Avery2/resume-1 from eertl2/resume
 ```
 
 </details>
