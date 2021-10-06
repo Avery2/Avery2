@@ -12,18 +12,18 @@ I’m currently a computer science and data science double major at the Universi
 
 <h4>
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Tuesday, October 5th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Wednesday, October 6th 2021)</sup></sub></summary>
   
 <br/>
 
 ```
-🎉 Merged PR #29 in Avery2/Avery2.github.io
-💪 Opened PR #29 in Avery2/Avery2.github.io
-💪 Opened PR #1 in Sbr2251/Sbr2251.github.io
-🍴 Forked Avery2/Sbr2251.github.io from Sbr2251/Sbr2251.github.io
-❗️ Opened issue #27 in Avery2/Avery2.github.io
-❗️ Closed issue #1 in Avery2/_projects
-❗️ Opened issue #1 in Avery2/_projects
+❌ Closed PR #229 in uw-cmg/MAST-ML
+💪 Opened PR #239 in uw-cmg/MAST-ML
+❌ Closed PR #238 in uw-cmg/MAST-ML
+🍴 Forked Avery2/MAST-ML from uw-cmg/MAST-ML
+💪 Opened PR #238 in uw-cmg/MAST-ML
+❌ Closed PR #237 in uw-cmg/MAST-ML
+💪 Opened PR #237 in uw-cmg/MAST-ML
 ```
 
 </details>
