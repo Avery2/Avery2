@@ -10,12 +10,11 @@ I’m currently a computer science and data science double major at the Universi
   <a href="https://www.averychan.site/normal-resume/Justin_Avery_Chan_Resume.pdf#view=FitH"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Sept_2021-green"/></a>
 </div>
 
-<h4>
+
 <details>
 <summary>📈 Recent Activity <sub><sup>(last updated Friday, October 8th 2021)</sup></sub></summary>
+<h4>
   
-<br/>
-
 ```
 ❌ Closed PR #229 in uw-cmg/MAST-ML
 💪 Opened PR #239 in uw-cmg/MAST-ML
@@ -25,11 +24,11 @@ I’m currently a computer science and data science double major at the Universi
 ❌ Closed PR #237 in uw-cmg/MAST-ML
 💪 Opened PR #237 in uw-cmg/MAST-ML
 ```
-
-</details>
+  
 </h4>
+</details>
 
-<h4>
+
 <details>
   <summary>💻 GitHub Stats</summary>
   <br/>
@@ -39,4 +38,3 @@ I’m currently a computer science and data science double major at the Universi
     </a>
   </div>
 </details>
-<h4/>
