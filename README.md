@@ -29,6 +29,7 @@ I’m currently a computer science and data science double major at the Universi
 </details>
 </h4>
 
+<h4>
 <details>
   <summary>💻 GitHub Stats</summary>
   <br/>
@@ -38,3 +39,4 @@ I’m currently a computer science and data science double major at the Universi
     </a>
   </div>
 </details>
+<h4/>
