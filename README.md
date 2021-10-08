@@ -35,27 +35,9 @@ I’m currently a computer science and data science double major at the Universi
   <br/>
   <div align="center">
     <a href="https://github.com/Avery2" target="__blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true&hide=issues" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true" />
     </a>
   </div>
   <br/>
 </details>
 <h4/>
-
-<details>
-  <summary>🛠 Tools for this README</summary><br/>
-
-<div align="center">
-<h4>
-
-| Tool | Link |
-|---|---:|
-| Sheilds.io for the badges | [link](https://shields.io) |
-| Profile-readme for recent activity | [link](https://github.com/actions-js/profile-readme) |
-| Github-readme-stats for the GitHub stats summary | [link](https://github.com/anuraghazra/github-readme-stats) |
-| Productive-box for pinned gist (below) of commit times | [link](https://github.com/maxam2017/productive-box) ||
-
-</h4>
-</div>
-  
-</details>
