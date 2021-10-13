@@ -11,17 +11,17 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Tuesday, October 12th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Wednesday, October 13th 2021)</sup></sub></summary>
 <h4>
   
 ```
+💪 Opened PR #240 in uw-cmg/MAST-ML
 ❌ Closed PR #229 in uw-cmg/MAST-ML
 💪 Opened PR #239 in uw-cmg/MAST-ML
 ❌ Closed PR #238 in uw-cmg/MAST-ML
 🍴 Forked Avery2/MAST-ML from uw-cmg/MAST-ML
 💪 Opened PR #238 in uw-cmg/MAST-ML
 ❌ Closed PR #237 in uw-cmg/MAST-ML
-💪 Opened PR #237 in uw-cmg/MAST-ML
 ```
   
 </h4>
