@@ -11,10 +11,11 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Thursday, October 14th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Friday, October 15th 2021)</sup></sub></summary>
 <h4>
   
 ```
+🎉 Merged PR #30 in Avery2/Avery2.github.io
 💪 Opened PR #240 in uw-cmg/MAST-ML
 ```
   
