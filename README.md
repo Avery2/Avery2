@@ -15,9 +15,13 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
   
 ```
+⬆️ Pushed 1 commit to Avery2/Avery2
+⬆️ Pushed 1 commit to Avery2/Avery2
 🍴 Forked Avery2/push from actions-js/push
+⬆️ Pushed 2 commits to Avery2/Avery2.github.io
 🎉 Merged PR #30 in Avery2/Avery2.github.io
-💪 Opened PR #240 in uw-cmg/MAST-ML
+⬆️ Pushed 1 commit to Avery2/Abortion-Data-Exploration
+⬆️ Pushed 1 commit to Avery2/Abortion-Data-Exploration
 ```
   
 </h4>
