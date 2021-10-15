@@ -15,7 +15,7 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
   
 ```
-<!--GITHUB_ACTIVITY:{"rows": 7, "exclude": ["PushEvent", "IssueCommentEvent"], "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 7, "raw": true}-->
 ```
   
 </h4>
