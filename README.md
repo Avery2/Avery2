@@ -11,7 +11,7 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Monday, October 18th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Tuesday, October 19th 2021)</sup></sub></summary>
 <h4>
   
 ```
