@@ -16,18 +16,18 @@ I’m currently a computer science and data science double major at the Universi
   
 ```
 ⬆️ Pushed 1 commit to Avery2/Avery2
-⬆️ Pushed 1 commit to Avery2/Avery2
-🍴 Forked Avery2/push from actions-js/push
-⬆️ Pushed 2 commits to Avery2/Avery2.github.io
-🎉 Merged PR #30 in Avery2/Avery2.github.io
-⬆️ Pushed 1 commit to Avery2/Abortion-Data-Exploration
-⬆️ Pushed 1 commit to Avery2/Abortion-Data-Exploration
+💪 Opened PR #2 in eertl2/eertl2
+⬆️ Pushed 1 commit to Avery2/eertl2
+💪 Opened PR #2 in eertl2/eertl2.github.io
+⬆️ Pushed 1 commit to Avery2/eertl2.github.io
+💪 Opened PR #1 in eertl2/eertl2.github.io
+⬆️ Pushed 1 commit to Avery2/eertl2.github.io
 ```
   
 </h4>
 </details>
 
-
+<!-- 
 <details>
   <summary>💻 GitHub Stats</summary>
   <br/>
@@ -36,4 +36,4 @@ I’m currently a computer science and data science double major at the Universi
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true" />
     </a>
   </div>
-</details>
+</details> -->
