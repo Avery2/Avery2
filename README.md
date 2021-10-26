@@ -15,13 +15,13 @@ I’m currently a computer science and data science double major at the Universi
 <h4>
   
 ```
+⬆️ Pushed 2 commits to Avery2/my-productive-box
+⬆️ Pushed 2 commits to Avery2/my-productive-box
+⬆️ Pushed 1 commit to Avery2/my-productive-box
 ⬆️ Pushed 1 commit to Avery2/Avery2
 💪 Opened PR #2 in eertl2/eertl2
 ⬆️ Pushed 1 commit to Avery2/eertl2
 💪 Opened PR #2 in eertl2/eertl2.github.io
-⬆️ Pushed 1 commit to Avery2/eertl2.github.io
-💪 Opened PR #1 in eertl2/eertl2.github.io
-⬆️ Pushed 1 commit to Avery2/eertl2.github.io
 ```
   
 </h4>
