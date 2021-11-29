@@ -11,17 +11,17 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Sunday, November 28th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Monday, November 29th 2021)</sup></sub></summary>
 <h4>
   
 ```
+🍴 Forked Avery2/auto-selfcontrol from andreasgrill/auto-selfcontrol
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/template
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
-⬆️ Pushed 2 commits to Avery2/639-Final-Project
 ```
   
 </h4>
