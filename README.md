@@ -11,16 +11,16 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Tuesday, November 30th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Wednesday, December 1st 2021)</sup></sub></summary>
 <h4>
   
 ```
+⬆️ Pushed 1 commit to uw-cmg/MAST-ML
+⬆️ Pushed 2 commits to uw-cmg/MAST-ML
+⬆️ Pushed 1 commit to Avery2/template
+⬆️ Pushed 1 commit to Avery2/template
 🍴 Forked Avery2/auto-selfcontrol from andreasgrill/auto-selfcontrol
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
-⬆️ Pushed 1 commit to Avery2/639-Final-Project
-⬆️ Pushed 1 commit to Avery2/639-Final-Project
-⬆️ Pushed 1 commit to Avery2/639-Final-Project
-⬆️ Pushed 1 commit to Avery2/template
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ```
   
