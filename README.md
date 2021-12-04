@@ -11,17 +11,17 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Friday, December 3rd 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Saturday, December 4th 2021)</sup></sub></summary>
 <h4>
   
 ```
+⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
+⬆️ Pushed 2 commits to Fall-2021-Stat-340/FinalProject
+🎉 Merged PR #3 in Fall-2021-Stat-340/FinalProject
+💪 Opened PR #3 in Fall-2021-Stat-340/FinalProject
 ⬆️ Pushed 1 commit to uw-cmg/MAST-ML
 ⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
 ⬆️ Pushed 4 commits to Fall-2021-Stat-340/FinalProject
-🎉 Merged PR #2 in Fall-2021-Stat-340/FinalProject
-💪 Opened PR #2 in Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
 ```
   
 </h4>
