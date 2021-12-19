@@ -11,17 +11,17 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Saturday, December 18th 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Sunday, December 19th 2021)</sup></sub></summary>
 <h4>
   
 ```
-⬆️ Pushed 2 commits to Fall-2021-Stat-340/FinalProject
 ⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 1 commit to Fall-2021-Stat-340/FinalProject
-⬆️ Pushed 4 commits to Fall-2021-Stat-340/FinalProject
+❌ Closed PR #6 in Fall-2021-Stat-340/FinalProject
+💪 Opened PR #6 in Fall-2021-Stat-340/FinalProject
+⬆️ Pushed 2 commits to Avery2/Avery2.github.io
+🎉 Merged PR #35 in Avery2/Avery2.github.io
+⬆️ Pushed 1 commit to Avery2/things3notionscript
+⬆️ Pushed 1 commit to Avery2/Avery2.github.io
 ```
   
 </h4>
