@@ -11,13 +11,13 @@ I’m currently a computer science and data science double major at the Universi
 </div><br/>
 
 <details>
-<summary>📈 Recent Activity <sub><sup>(last updated Thursday, December 23rd 2021)</sup></sub></summary>
+<summary>📈 Recent Activity <sub><sup>(last updated Friday, December 24th 2021)</sup></sub></summary>
 <h4>
   
 ```
+⬆️ Pushed 5 commits to uw-cmg/MAST-ML
 ⬆️ Pushed 25 commits to Avery2/639-Final-Project
 ⬆️ Pushed 0 commit to Avery2/639-Final-Project
-⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
 ⬆️ Pushed 1 commit to Avery2/639-Final-Project
