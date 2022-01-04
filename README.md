@@ -14,26 +14,5 @@ I’m currently a computer science and data science double major at the Universi
 <summary>📈 Recent Activity <sub><sup>(last updated Tuesday, January 4th 2022)</sup></sub></summary>
 <h4>
   
-```
-⬆️ Pushed 1 commit to ExercEyes/.github
-⬆️ Pushed 2 commits to Avery2/Avery2.github.io
-🎉 Merged PR #36 in Avery2/Avery2.github.io
-⬆️ Pushed 5 commits to uw-cmg/MAST-ML
-⬆️ Pushed 25 commits to Avery2/639-Final-Project
-⬆️ Pushed 0 commit to Avery2/639-Final-Project
-⬆️ Pushed 1 commit to Avery2/639-Final-Project
-```
-  
 </h4>
 </details>
-
-<!-- 
-<details>
-  <summary>💻 GitHub Stats</summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/Avery2" target="__blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true" />
-    </a>
-  </div>
-</details> -->
