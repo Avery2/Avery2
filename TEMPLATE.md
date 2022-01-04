@@ -14,20 +14,5 @@ I’m currently a computer science and data science double major at the Universi
 <summary>📈 Recent Activity <sub><sup>(last updated <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY"}-->)</sup></sub></summary>
 <h4>
   
-```
-<!--GITHUB_ACTIVITY:{"rows": 7, "raw": true}-->
-```
-  
 </h4>
 </details>
-
-<!-- 
-<details>
-  <summary>💻 GitHub Stats</summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/Avery2" target="__blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avery2&count_private=true&show_icons=true" />
-    </a>
-  </div>
-</details> -->
