@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Avery 👋 <sub><sup><i>(full name: Justin "Avery" Chan)</i></sup></sub></h1>
 
-<p align="center">I'm just doing my best to be kind.</p>
+<p align="center">I'm trying.</p>
 
 <div align="center">
   <a href="https://github.com/Avery2"><img alt="GitHub" src="https://img.shields.io/badge/Avery2-%230077B5.svg?style=flat&logo=github&logoColor=white&color=25292E"/></a>
