@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Avery 👋 <sub><sup><i>(full name: Justin "Avery" Chan)</i></sup></sub></h1>
+<h3 align="center">Hi, I’m Avery 👋 <sub><sup><i>(full name: Justin "Avery" Chan)</i></sup></sub></h3>
 
 <p align="center">I'm trying.</p>
 
