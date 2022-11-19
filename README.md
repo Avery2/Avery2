@@ -1,5 +1,5 @@
-<p align="center">Hi, I’m Avery (full name: Justin "Avery" Chan) 👋</p>
 <div align="center">
+  <p>Hi, I’m Avery 👋 (my full name is Justin "Avery" Chan)</p>
   <a href="https://github.com/Avery2"><img alt="GitHub" src="https://img.shields.io/badge/Avery2-%230077B5.svg?style=flat&logo=github&logoColor=white&color=25292E"/></a>
   <a href="https://www.linkedin.com/in/avery2"><img alt="LinkedIn" src="https://img.shields.io/badge/Justin_Chan-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:justinaverychan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/justinaverychan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
